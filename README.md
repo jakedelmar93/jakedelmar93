@@ -1,16 +1,16 @@
-## Hi there 👋
+Jake Delmar
+Software developer with a background in IT support and a degree in Computer Science with AI & Machine Learning.
+Currently — Global IT Support Specialist at Lenus eHealth, building internal automations and contributing to our IT governance steering committee on AI policy.
+Education — BSc Computer Science with AI and Machine Learning, TU Dublin Tallaght (First Class Honours, 2025).
+Interests — Practical AI adoption in enterprise settings, low-code automation, applied deep learning, and the governance side of all of it.
 
-<!--
-**jakedelmar93/jakedelmar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Featured project
+Deepfake Detection Thesis — Final-year thesis fine-tuning the Xception CNN on the Celeb-DFv2 dataset via transfer learning to detect deepfake images. Achieved 68% accuracy and an AUC of 0.74. Built end-to-end in TensorFlow / Keras and trained on Azure ML.
 
-Here are some ideas to get you started:
+Tech I work with
+Python · JavaScript · SQL · Bash · Linux · Git
+TensorFlow · Keras · OpenCV · MTCNN · scikit-learn
+LLMs & prompt engineering · low-code automation · AI governance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get in touch
+Copenhagen, Denmark · LinkedIn · jakedelmar93@gmail.com
